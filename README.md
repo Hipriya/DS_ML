@@ -1,3 +1,5 @@
-##This Folder contains the Data sceince Projects:
-
-1. Mental Sentimental Analysis
+## Description
+## This Folder contains  Data science Projects:
+**
+1. <ins> Sentimental Analysis </ins> :heavy_check_mark:
+2. <ins> Diabetic Prediction </ins> :heavy_check_mark:
